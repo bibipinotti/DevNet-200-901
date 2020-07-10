@@ -1,0 +1,24 @@
+# yersinia v0.8.2 started in Oz-PC on Tue Jun 30 09:18:14 2020
+
+interfaces_init pcap_findalldevs: socket: Socket type not supported
+ g00dbye function called from 74570F00
+
+ ints_destroy started...
+# yersinia v0.8.2 started in Oz-PC on Tue Jun 30 09:18:32 2020
+
+interfaces_init pcap_findalldevs: socket: Socket type not supported
+ g00dbye function called from 27BA0F00
+
+ ints_destroy started...
+# yersinia v0.8.2 started in Oz-PC on Tue Jun 30 09:19:27 2020
+
+interfaces_init pcap_findalldevs: socket: Socket type not supported
+ g00dbye function called from 6F50F00
+
+ ints_destroy started...
+# yersinia v0.8.2 started in Oz-PC on Tue Jun 30 09:22:48 2020
+
+interfaces_init pcap_findalldevs: socket: Socket type not supported
+ g00dbye function called from A2DB0F00
+
+ ints_destroy started...
